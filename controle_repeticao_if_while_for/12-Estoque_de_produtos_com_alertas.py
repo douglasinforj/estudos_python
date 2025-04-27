@@ -15,3 +15,16 @@ for produto, quantidade in estoque.items():
     print(f"{produto}: {quantidade} unidades")
     if quantidade < limite_estoque:
         print(f"Alerta! O estoque de {produto} está abaixo do limite!")
+
+"""
+
+Conceitos aplicados:
+
+Estrutura de dados (dicionário)
+
+Laço for para iteração
+
+Controle de fluxo e alertas
+
+"""
+        
